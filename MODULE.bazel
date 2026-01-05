@@ -1,0 +1,4 @@
+module(
+    name = "jetbrains-c-python",
+    version = "0.0.0",
+)
